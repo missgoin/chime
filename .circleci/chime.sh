@@ -48,7 +48,7 @@ FINAL_ZIP_ALIAS=Karenulgink-${DATE}.zip
 ##----------------------------------------------------------##
 # Specify compiler.
 
-COMPILER=xrage
+COMPILER=proton
 
 ##----------------------------------------------------------##
 # Specify Linker
